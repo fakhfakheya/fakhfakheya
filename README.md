@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🎓 Data Engineering & Decision Systems Student – ENET’Com  
+Passionnée par l’IA générative, le Machine Learning, le Computer Vision et les systèmes distribués.
 
-<!--
-**fakhfakheya/fakhfakheya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Compétences techniques
+- Modélisation ML, NLP, OCR, feature extraction, vector search
+- IA générative et optimisation de modèles
+- Pipelines IA end-to-end (data → modèle → API → interface)
+- Traitement du langage naturel et génération de contenu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Data Engineering
+- Architectures batch & streaming
+- Orchestration et systèmes data-driven
+- Conception et optimisation orientée performance et scalabilité
+
+### 🔧 Stack
+- Python, frameworks ML, Transformers (Hugging Face)
+- IA générative : LLM, embeddings, RAG pipelines
+- Bases SQL / NoSQL
+- Développement d’APIs backend
+- Interfaces utilisateur fonctionnelles
